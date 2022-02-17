@@ -1,1 +1,1 @@
-# Deber2_Bioinfo
+# En este apartado se da la resol del ejercicio de Bioinformatic
